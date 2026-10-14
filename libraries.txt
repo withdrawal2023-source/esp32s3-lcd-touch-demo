@@ -1,0 +1,4 @@
+Adafruit ILI9341
+Adafruit GFX Library
+Adafruit FT6206 Library
+Adafruit BusIO
